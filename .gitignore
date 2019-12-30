@@ -8,6 +8,8 @@
 # CD
 /.netlify
 
+README-LOCAL.md
+
 # testing
 /coverage
 
