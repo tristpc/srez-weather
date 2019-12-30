@@ -1,10 +1,3 @@
-# For full weather files, see C:\Users\Dell\Box\AA - SPEEDREZ\Weather\
-Use costarica-places-json.js to get places for a country with lat/lon from city.list.min.json
-
-Main pages to modify: src\App.js and src\Weather.js
-
-Enter npm run start to get app on http://localhost:3000
-
 # react-weather [![Build Status](https://travis-ci.org/denniskigen/react-weather.svg?branch=master)](https://travis-ci.org/denniskigen/react-weather)  [![Netlify Status](https://api.netlify.com/api/v1/badges/142b6577-41bb-4d21-846a-096cd87214af/deploy-status)](https://app.netlify.com/sites/yet-another-react-weather-app/deploys)
 
 A simple React weather app that displays weather information from the OpenWeatherMap API.
